@@ -6,5 +6,6 @@ console.log('Calculating');
 console.log(`Result is ${result}` );
 console.log('Dolor sit amet!');
 console.log('1');
+console.log('2');
 
 
